@@ -381,7 +381,7 @@ $a = mysqli_fetch_object($kontak);
 
     <header>
         <div class="container">
-            <h1><a href="dashboard.php">G A L E R I</a></h1>
+            <h1><a href="dashboard.php">G A L E R I U</a></h1>
             <div class="hamburger-menu">
                 <i class="fas fa-bars"></i>
             </div>
