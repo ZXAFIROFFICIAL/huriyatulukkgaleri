@@ -1,0 +1,2 @@
+# huriyatulukkgaleri
+okey hebat saya
